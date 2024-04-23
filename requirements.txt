@@ -5,3 +5,4 @@ nest-asyncio
 uvicorn
 python-multipart
 torchaudio
+datasets==2.18.0
